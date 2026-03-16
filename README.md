@@ -2,7 +2,7 @@
 ### 📊 Data Engineer & AI Service Developer
 "데이터의 무결성을 지키고, 기술로 현장의 문제를 해결하는 엔지니어입니다."
 
-- 🎓 **Education**: 부산대학교 데이터사이언스전문대학원 데이터공학 전공 (석사)
+- 🎓 **Education**: 국립부경대학교 일반대학원 데이터공학 전공 (석사)
 - 🛠 **Main Tech**: Python, FastAPI, LangChain, Docker, MongoDB, SQL
 - 🔭 **Interests**: RAG Optimization, Data Pipeline Architecture, Survival Analysis
 - 📬 **Contact**: [이메일 주소 입력]
