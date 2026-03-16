@@ -5,7 +5,7 @@
 - 🎓 **Education**: 국립부경대학교 일반대학원 데이터공학 전공 (석사)
 - 🛠 **Main Tech**: Python, FastAPI, LangChain, Docker, MongoDB, SQL
 - 🔭 **Interests**: RAG Optimization, Data Pipeline Architecture, Survival Analysis
-- 📬 **Contact**: [이메일 주소 입력]
+- 📬 **Contact**: hyeongdohun@gmail.com
 
 ---
 
