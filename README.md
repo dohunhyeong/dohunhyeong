@@ -22,20 +22,20 @@
 
 ## 🚀 Featured Projects
 
-### 1. [2024_idbot_beta](https://github.com/dohunhyeong/2024_idbot_beta)
+### 1. [2024년도 법정감염병 알아보기 챗봇 프로덕션(베타 버전)](https://github.com/dohunhyeong/2024_idbot_beta)
 **RAG 기반 법정감염병 지침 챗봇 (Achievement)**
 - 데이터 정밀 분절 및 근거 제시 로직으로 **답변 유사도 73%** 달성 (단순 LLM 대비 약 10%p 향상)
 - 누적 사용 **3,000건** 돌파
 
-### 2. [2025_idbot](https://github.com/dohunhyeong/2025_idbot)
+### 2. [2025년도 지식베이스 고도화 + Modular RAG를 활용하여 법정감염병 알아보기 챗봇 고도화](https://github.com/dohunhyeong/2025_idbot)
 **지식베이스 고도화 및 Modular RAG를 활용한 법정감염병 알아보기 챗봇 고도화**
 - 베타 버전의 성과(누적 사용 3,000건 돌파)를 바탕으로 멀티리트리버 구조를 적용한 검색 성능 향상
 - Upstage Document Parser를 활용한 문서 전처리 및 지식베이스 고도화
 - LLM-as-a-judge 방식 평가 결과, Naive RAG 방식 대비, 응답정확도 11.6% 향상
 - [부산광역시 법정감염병 알아보기 챗봇](http://idbot.or.kr)
 
-### 3. [address](https://github.com/dohunhyeong/address)
+### 3. [80만 건 주소 데이터 전처리 파이프라인 구축](https://github.com/dohunhyeong/address)
 **80만 건 대규모 비정형 데이터 ETL 파이프라인**
-- 배치 처리 및 2단계 에러 복구 전략으로 **수작업 대비 전처리 속도 300% 향상**
+- 배치 처리 및 2단계 에러 복구 전략으로 **수작업 대비 전처리 속도 32배 향상**
 - 기술 가이드라인 표준화 및 노션을 통한 공유로 팀 내 협업 극대화
-- [주소 가이드](https://www.notion.so/17ad2ebbdd5880bea4b7edae7756c3f7?source=copy_link)
+- [노션(도로명 주소 전처리 가이드)](https://www.notion.so/17ad2ebbdd5880bea4b7edae7756c3f7?source=copy_link)
