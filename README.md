@@ -1,6 +1,5 @@
-# 👋 Hello, I'm Hyeong-dohun
-### 📊 Data Engineer & AI Service Developer
-"데이터의 무결성을 지키고, 기술로 현장의 문제를 해결하는 엔지니어입니다."
+# 👋 I'm Hyeong-dohun
+### 📊 Data & AI Engineer
 
 - 🎓 **Education**: 국립부경대학교 일반대학원 데이터공학 전공 (석사)
 - 🛠 **Main Tech**: Python, FastAPI, LangChain, Docker, MongoDB, SQL
@@ -25,7 +24,7 @@
 
 ### 1. [2024_idbot_beta](https://github.com/dohunhyeong/2024_idbot_beta)
 **RAG 기반 법정감염병 지침 챗봇 (Achievement)**
-- 데이터 정밀 분절 및 근거 제시 로직으로 **답변 유사도 73%** 달성 (단순 LLM 대비 8%p 향상)
+- 데이터 정밀 분절 및 근거 제시 로직으로 **답변 유사도 73%** 달성 (단순 LLM 대비 약 10%p 향상)
 - 누적 사용 **3,000건** 돌파 및 부산광역시 감염병관리지원단 발표회 시연
 
 ### 2. [2025_idbot](https://github.com/dohunhyeong/2025_idbot)
